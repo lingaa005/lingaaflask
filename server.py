@@ -41,7 +41,7 @@ def send_email_route():
 
 @app.route('/')
 def welcome():
-    return "Hello, World!", 200
+    return "Hello, World! lingaa jjfjjfjfj", 200
 def get_emails(email_user, email_pass):
     try:
         # Connect to Gmail
